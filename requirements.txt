@@ -1,5 +1,3 @@
 sounddevice
 keyboard
-wave
-tempfile
 groq
